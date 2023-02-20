@@ -1,0 +1,35 @@
+body {
+    font-family: montserrat;
+    font-size: 20px;
+    text-align: left;
+    background: #ddf1f4;
+    color: #2b3739;
+    position: absolute;
+    left: 90px;
+}
+header{
+    font-size: 30px;
+    position: relative;
+    top: 50px;
+}
+main {
+    position: relative;
+    top: 100px;
+}
+h2 {
+    font-size: 25px;
+}
+.html {
+    position: absolute;
+    top: 200px;
+}
+h3 {
+    font-size: 25px;
+}
+.css {
+    position: absolute;
+    top: 600px;
+}
+h4 {
+    font-size: 25px;
+}
